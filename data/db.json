@@ -36,52 +36,6 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
-    },
-    {
-      "id": "79cf",
-      "title": "sds",
-      "ingredients": [
-        "sddd",
-        "ew"
-      ],
-      "method": "232",
-      "cookingTime": "23 minutes"
-    },
-    {
-      "id": "1c22",
-      "title": "sss",
-      "ingredients": [
-        "123",
-        "3222"
-      ],
-      "method": "w",
-      "cookingTime": "23 minutes"
-    },
-    {
-      "id": "63fb",
-      "title": "123",
-      "ingredients": [
-        "223",
-        "32"
-      ],
-      "method": "啊",
-      "cookingTime": "23 minutes"
-    },
-    {
-      "id": "9d3c",
-      "title": "sdss",
-      "ingredients": [],
-      "method": "1",
-      "cookingTime": "3 minutes"
-    },
-    {
-      "id": "339a",
-      "title": "sss",
-      "ingredients": [
-        "ssds"
-      ],
-      "method": "dsd",
-      "cookingTime": "23 minutes"
     }
   ]
 }
